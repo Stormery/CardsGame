@@ -1,6 +1,6 @@
 # CardGame
-#This was my first project during learning Java, and some OOD. Still there is no GUI only command line game. 
-#I've only made the logical side of this game, and left it.
+*This was my first project during learning Java, and some OOD. Still there is no GUI only command line game.
+*I've only made the logical side of this game, and left it.
 
 ![alt text](https://github.com/Stormery/CardsGame/blob/master/bin/Images/2-01.png)
 ![alt text](https://github.com/Stormery/CardsGame/blob/master/bin/Images/2-02.png)
